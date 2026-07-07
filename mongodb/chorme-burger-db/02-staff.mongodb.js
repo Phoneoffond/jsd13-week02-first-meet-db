@@ -3,7 +3,7 @@ use("chrome-burger-db");
 //Clear existing data
 db.staff.deleteMany({});
 
-//Insert mock data for Suppliers collection
+//Insert mock data for Staff collection
 db.staff.insertMany([
   {
     "_id": ObjectId("65f100000000000000000001"),

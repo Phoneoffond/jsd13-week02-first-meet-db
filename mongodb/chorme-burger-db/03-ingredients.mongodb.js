@@ -29,6 +29,7 @@ db.ingredients.insertMany([
 ]);
 
 // Find all ingredients and join with suppliers information
+
 db.ingredients.aggregate([
   {$lookup: {
     from: "suppliers",
