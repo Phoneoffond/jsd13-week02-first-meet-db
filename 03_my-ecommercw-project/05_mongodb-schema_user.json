@@ -1,0 +1,19 @@
+{
+"_id": "001",
+"username": "john_doe",
+"email": "john@example.com"
+"shopping_cart": [
+    {
+      "product_id": "p001",
+      "quantity": 2
+    },
+    {
+      "product_id": "p002",
+      "quantity": 1
+    },
+    {
+      "product_id": "p003",
+      "quantity": 3
+    },
+  ]
+}
