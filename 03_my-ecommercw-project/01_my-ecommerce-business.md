@@ -1,4 +1,6 @@
-- My e-Commerce business is "I need someone." (Friend for Hiring Service) or Friends in need, Friend indeed
+# My e-Commerce business is "I need someone." 
+# (Friend for Hiring Service) 
+# Friends in need, Friend indeed
 
 - Pain point
     - Low birth rate makes don't have their childern to take care when they want to travel or go to hospital. Sometimes, they need somebody to talk, but no one in the family is free for them.
