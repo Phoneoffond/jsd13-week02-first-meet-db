@@ -1,0 +1,10 @@
+{
+"as_id": "0001",
+"as_username": "John Doe",
+"as_email": "john@example.com",
+"as_mobile": "1234567890",
+"service_type": ["hospital", "school", "Tour", "Friend"],
+"rate": 500,
+"available": true,
+"as_purchase_status": ["pending", "paid", "refunded"]   
+}

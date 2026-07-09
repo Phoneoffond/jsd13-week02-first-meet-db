@@ -1,0 +1,13 @@
+{
+"booking_id": "0001",
+"user_id": "0001",
+"service_request": "hospital",
+"duration_unit": "hour",
+"duration_value": "1",
+"distance": "1",
+"as_id": "0001",
+"special_request": "car",
+"user_purchase_status": "pending"
+}
+
+     
